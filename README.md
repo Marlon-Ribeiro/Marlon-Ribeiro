@@ -1,7 +1,7 @@
 ### Olá eu sou Marlon Ribeiro
 <p align="height">
   <a href="#">
-    <img align="center" width="450" src="marlon.gif" />
+    <img align="height" width="450" src="marlon.gif" />
   </a>
 </p>
 
