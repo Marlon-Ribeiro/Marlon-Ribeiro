@@ -2,7 +2,7 @@
 
 
 - 🔭 hoje tabalho com back-end 
-- ☕ Estudando java
+- ☕  java
 - 🍃Spring-Boot 
 
 <div>
@@ -14,7 +14,7 @@
   <img align="center" alt="Marlon-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Marlon-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Marlon-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  
-       
+  <img align="center" alt="Marlon-GIT" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ </div> 
+ 
   
